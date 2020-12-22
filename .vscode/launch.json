@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "myfirstapplication",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "myfirstapplication (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
